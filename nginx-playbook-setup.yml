@@ -1,0 +1,6 @@
+---
+ - name: Install nginx
+   hosts: nginx_host
+   roles:
+     - nginx
+
