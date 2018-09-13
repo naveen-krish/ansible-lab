@@ -1,6 +1,6 @@
 ---
- - name: Install nginx
+ - name: Hello world
    hosts: localhost
    roles:
-     - helloworld
+     - helloworld-awx
 
